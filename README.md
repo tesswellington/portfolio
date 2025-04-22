@@ -6,10 +6,10 @@ My projects span predictive healthcare, political science, and consumer behavior
 
 ## Featured Projects
 
-### Predicting Drug Response in Cancer Patients (Current Project)
-- **Goal:** Predict how cancer patients will respond to different treatments based on their genomic profiles
-- **Tech Stack:**
-- **Repo:**
+### Predicting Secondary Structure of Proteins (Current Project)
+- **Goal:** Predict the secondary structure of proteins from their amino acid sequences using natural language models.
+- **Tech Stack:** Python, Biopython, Evolutionary Scale Modeling (ESM) by Meta AI
+- **Repo:** Coming Soon
 
 ### Heart Failure Mortality Prediction (Stats 140XP @ UCLA)
 - **Goal:** Identify key risk factors in mortality from heart failure using data analysis and machine learning.
@@ -20,7 +20,7 @@ My projects span predictive healthcare, political science, and consumer behavior
 - **Goal:** Build a machine learning model to predict county-level winners in the 2020 U.S. Presidential Election (Biden vs. Trump) based on demographic and education data from the U.S. Census Bureau. The dataset includes 3,111 counties, with 75% used for training and 25% for testing.
 - **Course Competition Result:** Our team tied for 5th place out of 17 teams in accuracy
 - **Tech Stack:** R, tidyverse, ggplot
-- **Repo:**
+- **Repo:** Coming Soon
 
 ### Predicting Amazon Customer Order Totals (Stats 101C @ UCLA)
 - **Goal:** Develop a predictive model to estimate total order value for Amazon customers based on demographic and purchase data. Using a dataset of ~5000 customers from 2018-2022, this project explores customer behavior and purchasing patterns to improve revenue forecasting. 
