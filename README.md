@@ -1,7 +1,6 @@
 # Data Science and Machine Learning Portfolio
 
-Hello! I'm Theresa "Tess" Wellington, a 4th-year Statistics and Data Science student at UCLA with a passion for machine learning, predictive modeling, and using data to drive meaningful change. 
-I believe AI and machine learning have the power to transform lives for the better. As this field rapidly expands, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
+Hi, my name is Theresa "Tess" Wellington. I hold a strong passion for machine learning, predictive modeling, and using data to drive meaningful change. I believe AI and machine learning have the power to transform lives for the better. As this field rapidly expands, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
 My projects span predictive healthcare, political science, and consumer behavior analysis, with the goal of uncovering meaningful insights and motivating data-driven solutions that make a real difference. Below, you'll find some of my recent projects in data analysis and machine learning.
 
 ## Featured Projects
