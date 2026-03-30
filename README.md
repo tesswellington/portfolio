@@ -3,6 +3,13 @@
 Hi, my name is Theresa (Tess) Wellington. I hold a strong passion for machine learning, predictive modeling, and using data to drive meaningful change. I firmly believe AI and machine learning have the potential to transform lives for the better. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
 Below, you'll find a selection of my projects encompassing predictive healthcare, political science, and consumer behavior analysis.
 
+## Personal Projects
+
+### Analyzing Hospital Billing
+- **Goal:** Investigate the gap between what hospitals bill and what Medicare actually pays across over 146,000 records from thousands of US hospitals and hundreds of Diagnosis-Related Groups (DRGs). The analysis identifies pricing patterns by procedure type, DRG, state, and hospital size. Uses CMS Medicare Inpatient Hospitals by Provider and Service dataset from CMS (data.cms.gov).
+- **Tech Stack:** SQL
+- **Repo:**
+
 ## Course Projects
 
 ### Predicting Amazon Customer Order Totals (Stats 101C @ UCLA)
