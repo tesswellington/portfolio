@@ -28,7 +28,7 @@ Below, you'll find a selection of my projects encompassing predictive healthcare
 - **Repo:** [heart-failure-prediction](https://github.com/tesswellington/heart-failure-prediction)
 
 ### Predicting U.S. Presidential Election Results (Stats 101C @ UCLA)
-- **Goal:** Build a machine learning model to predict county-level winners in the 2020 U.S. Presidential Election (Biden vs. Trump) based on demographic and education data from the U.S. Census Bureau. The dataset includes 3,111 counties, with 75% used for training and 25% for testing.
+- **Goal:** Build a machine learning model to predict county-level winners in the 2020 U.S. Presidential Election based on demographic and education data from the U.S. Census Bureau. The dataset includes 3,111 counties, with 75% used for training and 25% for testing.
 - **Tech Stack:** R, tidyverse, ggplot
 - **Repo:** [presidential-election-prediction](https://github.com/tesswellington/presidential-election-prediction)
 
