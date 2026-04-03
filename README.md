@@ -7,7 +7,7 @@ Below, you'll find a selection of my projects encompassing predictive healthcare
 
 ### Analyzing Hospital Billing
 - **Goal:** Investigate the gap between what hospitals bill and what Medicare actually pays across over 146,000 records from thousands of US hospitals and hundreds of Diagnosis-Related Groups (DRGs). The analysis identifies pricing patterns by procedure type, DRG, state, and hospital size. Uses CMS Medicare Inpatient Hospitals by Provider and Service dataset from CMS (data.cms.gov).
-- **Tech Stack:** SQL
+- **Tech Stack:** SQL, Tableau
 - **Repo:**
 
 ## Course Projects
