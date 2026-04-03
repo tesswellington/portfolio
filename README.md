@@ -1,14 +1,19 @@
 # Data Science and Machine Learning Portfolio
 
 Hi, my name is Theresa (Tess) Wellington. I hold a strong passion for machine learning, predictive modeling, and using data to drive meaningful change. I firmly believe AI and machine learning have the potential to transform lives for the better. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
-Below, you'll find a selection of my projects encompassing predictive healthcare, political science, and consumer behavior analysis.
+Below, you'll find a selection of my projects encompassing predictive healthcare, political science, and consumer behavior analysis, and more.
 
 ## Personal Projects
 
-### Analyzing Hospital Billing
+### Analyzing Gap Between Hospital Bills and Medicare Payments
 - **Goal:** Investigate the gap between what hospitals bill and what Medicare actually pays across over 146,000 records from thousands of US hospitals and hundreds of Diagnosis-Related Groups (DRGs). The analysis identifies pricing patterns by procedure type, DRG, state, and hospital size. Uses CMS Medicare Inpatient Hospitals by Provider and Service dataset from CMS (data.cms.gov).
 - **Tech Stack:** SQL, Tableau
-- **Repo:**
+- **Repo:** Coming Soon
+
+### Genetics-Based Simulation Project
+- **Goal:** Prototype a modular, data-driven simulation system featuring procedural generation, genetic inheritance, autonomous agents, and custom assets.
+- **Tech Stack:** Godot 4, gdscript
+- **Repo:** Coming Soon
 
 ## Course Projects
 
