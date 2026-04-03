@@ -33,5 +33,4 @@ Below, you'll find a selection of my projects encompassing predictive healthcare
 
 ## Connect with Me Here!
 - **LinkedIn:** [linkedin.com/in/theresalwellington](https://www.linkedin.com/in/theresalwellington)
-- **Primary Email:** tess.wellington@gmail.com
-- **UCLA Email:** tesswellington@g.ucla.edu
+- **Email:** tess.wellington@gmail.com
