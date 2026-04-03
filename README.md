@@ -1,7 +1,7 @@
 # Data Science and Machine Learning Portfolio
 
 Hi, my name is Theresa (Tess) Wellington. I hold a strong passion for machine learning, predictive modeling, and using data to drive meaningful change. I firmly believe AI and machine learning have the potential to transform lives for the better. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
-Below, you'll find a selection of my projects encompassing predictive healthcare, political science, and consumer behavior analysis, and more.
+Below, you'll find a selection of my projects encompassing predictive healthcare, political science, consumer behavior analysis, and more.
 
 ## Personal Projects
 
