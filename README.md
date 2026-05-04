@@ -5,15 +5,21 @@ Below, you'll find a selection of my projects encompassing predictive healthcare
 
 ## Personal Projects
 
+### Automated Data Pipeline
+- **Goal:** Engineer an automated data pipeline which takes data from multiple sources (websites, social media pages, POS system, online ordering via Doordash) using API keys. The data is automatically sent to a dashboard for clients to view.
+- **Tech Stack:** Python, SQL, Tableau, Airflow DAG
+- **Repo:** 
+
 ### Analyzing Gap Between Hospital Bills and Medicare Payments
 - **Goal:** Investigate the gap between what hospitals bill and what Medicare actually pays across over 146,000 records from thousands of US hospitals and hundreds of Diagnosis-Related Groups (DRGs). The analysis identifies pricing patterns by procedure type, DRG, state, and hospital size. Uses CMS Medicare Inpatient Hospitals by Provider and Service dataset from CMS (data.cms.gov).
 - **Tech Stack:** SQL, Tableau
-- **Repo:** Coming Soon
+- **Repo:** 
 
 ### Genetics-Based Simulation Project
 - **Goal:** Prototype a modular, data-driven simulation system featuring procedural generation, genetic inheritance, autonomous agents, and custom assets.
 - **Tech Stack:** Godot 4, gdscript
-- **Repo:** Coming Soon
+- **Repo:**
+
 
 ## Course Projects
 
