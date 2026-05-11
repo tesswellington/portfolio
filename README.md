@@ -35,6 +35,29 @@ Below, you'll find a selection of my projects encompassing predictive healthcare
 - **Tech Stack:** R, tidyverse, ggplot
 - **Repo:** [presidential-election-prediction](https://github.com/tesswellington/presidential-election-prediction)
 
+---
+
+## Certifications
+
+### IBM Deep Learning and Reinforcement Learning (Python)
+- **Grade Achieved:** 99.4%
+- **Credential:** [Course Certificate](https://coursera.org/share/95f4b058ee79edfc57ea5e457dfc2846)
+
+### IBM Unsupervised Machine Learning (Python)
+- **Grade Achieved:** 100%
+- **Credential:** [Course Certificate](https://coursera.org/share/394fe10317c5c65e1e5661d6c19f8fa4)
+
+### IBM Supervised Machine Learning: Classification (Python)
+- **Grade Achieved:** 100%
+- **Credential:** [Course Certificate](https://coursera.org/share/c49c451d72c7fbe90c3b2b7014f8389c)
+
+### IBM Supervised Machine Learning: Regression (Python)
+- **Grade Achieved:** 98%
+- **Credential:** [Course Certificate](https://coursera.org/share/6628970366a7f0820523b739a3344466)
+
+### IBM Exploratory Data Analysis for Machine Learning (Python)
+- **Grade Achieved:** 100%
+- **Credential:** [Course Certificate](https://coursera.org/share/2eab1072e10aa0cd9614c03de1a85c56)
 
 ---
 
