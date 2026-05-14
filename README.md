@@ -41,7 +41,7 @@ Below, you'll find a selection of my projects encompassing predictive healthcare
 
 ### IBM Machine Learning
 - **Credential:** [Professional Certificate]()
-- **Language:** Python (Scikit Learn, pandas, numpy, matplotlib, seaborn)
+- **Language:** Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
 - **Courses Completed:**
   - Machine learning Capstone ([Course Certificate](https://coursera.org/share/fd3099b65286235657ae01af236ce9c3))
   - Deep Learning and Reinforcement Learning ([Course Certificate](https://coursera.org/share/95f4b058ee79edfc57ea5e457dfc2846))
