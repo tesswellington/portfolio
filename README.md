@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Portfolio
 
-Hi, my name is Theresa (Tess) Wellington. I hold a strong passion for machine learning, predictive modeling, and using data to drive meaningful change. I firmly believe AI and machine learning have the potential to transform lives for the better. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
+Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statistics and Data Science. I believe data science and machine learning have the potential to transform lives for the better. This belief motivates my passion for using data to uncover patterns, predict outcomes, and drive meaningful change. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
 Below, you'll find a selection of my projects encompassing predictive healthcare, business analysis, political science, consumer behavior analysis, and more.
 
 ## Personal Projects
@@ -37,27 +37,18 @@ Below, you'll find a selection of my projects encompassing predictive healthcare
 
 ---
 
-## Certifications
+## Professional Certificates
 
-### IBM Deep Learning and Reinforcement Learning (Python)
-- **Grade Achieved:** 99.4%
-- **Credential:** [Course Certificate](https://coursera.org/share/95f4b058ee79edfc57ea5e457dfc2846)
-
-### IBM Unsupervised Machine Learning (Python)
-- **Grade Achieved:** 100%
-- **Credential:** [Course Certificate](https://coursera.org/share/394fe10317c5c65e1e5661d6c19f8fa4)
-
-### IBM Supervised Machine Learning: Classification (Python)
-- **Grade Achieved:** 100%
-- **Credential:** [Course Certificate](https://coursera.org/share/c49c451d72c7fbe90c3b2b7014f8389c)
-
-### IBM Supervised Machine Learning: Regression (Python)
-- **Grade Achieved:** 98%
-- **Credential:** [Course Certificate](https://coursera.org/share/6628970366a7f0820523b739a3344466)
-
-### IBM Exploratory Data Analysis for Machine Learning (Python)
-- **Grade Achieved:** 100%
-- **Credential:** [Course Certificate](https://coursera.org/share/2eab1072e10aa0cd9614c03de1a85c56)
+### IBM Machine Learning
+- **Credential:** [Professional Certificate]()
+- **Language:** Python (Scikit Learn, pandas, numpy, matplotlib, seaborn)
+- **Courses Completed:**
+  - Machine learning Capstone ([Course Certificate](https://coursera.org/share/fd3099b65286235657ae01af236ce9c3))
+  - Deep Learning and Reinforcement Learning ([Course Certificate](https://coursera.org/share/95f4b058ee79edfc57ea5e457dfc2846))
+  - Unsupervised Machine Learning ([Course Certificate](https://coursera.org/share/394fe10317c5c65e1e5661d6c19f8fa4))
+  - Supervised Machine Learning: Classification ([Course Certificate](https://coursera.org/share/c49c451d72c7fbe90c3b2b7014f8389c))
+  - Supervised Machine Learning: Regression ([Course Certificate](https://coursera.org/share/6628970366a7f0820523b739a3344466))
+  - IBM Exploratory Data Analysis for Machine Learning ([Course Certificate](https://coursera.org/share/2eab1072e10aa0cd9614c03de1a85c56))
 
 ---
 
