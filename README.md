@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Portfolio
 
-Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statistics and Data Science. I believe data science and machine learning have the potential to transform lives for the better. This belief motivates my passion for using data to uncover patterns, predict outcomes, and drive meaningful change. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
+Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statistics and Data Science. I believe data science, machine learning, and AI have the power to transform lives for the better. This belief motivates my passion for using data to uncover patterns, predict outcomes, and drive meaningful change. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
 Below, you'll find a selection of my projects encompassing predictive healthcare, business analysis, political science, consumer behavior analysis, and more.
 
 ## Personal Projects
@@ -40,7 +40,7 @@ Below, you'll find a selection of my projects encompassing predictive healthcare
 ## Professional Certificates
 
 ### IBM Machine Learning
-- **Credential:** [Professional Certificate]()
+- **Credential:** [Professional Certificate](https://coursera.org/share/1227e32c706a88cfc0301835049b6acc)
 - **Language:** Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
 - **Courses Completed:**
   - Machine learning Capstone ([Course Certificate](https://coursera.org/share/fd3099b65286235657ae01af236ce9c3))
