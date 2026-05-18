@@ -1,17 +1,13 @@
 # Data Science and Machine Learning Portfolio
 
-Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statistics and Data Science. I believe data science, machine learning, and AI have the power to transform lives for the better. This belief motivates my passion for using data to uncover patterns, predict outcomes, and drive meaningful change. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits.
-Below, you'll find a selection of my projects encompassing predictive healthcare, business analysis, political science, consumer behavior analysis, and more.
+Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statistics and Data Science. I believe data science, machine learning, and AI have the power to transform lives for the better. This belief motivates my passion for using data to uncover patterns, predict outcomes, and drive meaningful change. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits. Below, you'll find a selection of my projects encompassing predictive healthcare, business analysis, political science, consumer behavior analysis, and more.
 
 ## Personal Projects
 
-### Automated Data Pipeline
-- **Goal:** Engineer an automated data pipeline which takes data from multiple sources (websites, social media pages, POS system, online ordering via Doordash) using API keys. The data is automatically sent to a dashboard for clients to view.
-- **Tech Stack:** Python, SQL, Tableau, Airflow DAG
-
 ### Analyzing Gap Between Hospital Bills and Medicare Payments
 - **Goal:** Investigate the gap between what hospitals bill and what Medicare actually pays across over 146,000 records from thousands of US hospitals and hundreds of Diagnosis-Related Groups (DRGs). The analysis identifies pricing patterns by procedure type, DRG, state, and hospital size. Uses CMS Medicare Inpatient Hospitals by Provider and Service dataset from CMS (data.cms.gov).
-- **Tech Stack:** SQL, Tableau
+- **Tech Stack:** SQLite, Tableau
+- **Repo:** [hospital-billing-cms](https://github.com/tesswellington/hospital-billing-cms)
 
 ### Genetics-Based Simulation Project
 - **Goal:** Prototype a modular, data-driven simulation system featuring procedural generation, genetic inheritance, autonomous agents, and custom assets.
