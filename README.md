@@ -7,7 +7,7 @@ Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statist
 ### Analyzing Gap Between Hospital Bills and Medicare Payments
 - **Goal:** Investigate the gap between what hospitals bill and what Medicare actually pays across over 146,000 records from thousands of US hospitals and hundreds of Diagnosis-Related Groups (DRGs). The analysis identifies pricing patterns by procedure type, DRG, state, and hospital size. Uses CMS Medicare Inpatient Hospitals by Provider and Service dataset from CMS (data.cms.gov).
 - **Tech Stack:** SQLite, Tableau
-- **Repo:** [hospital-billing-cms](https://github.com/tesswellington/hospital-billing-cms)
+- **Repo:** [hospital-billing-CMS](https://github.com/tesswellington/hospital-billing-cms)
 
 ### Genetics-Based Simulation Project
 - **Goal:** Prototype a modular, data-driven simulation system featuring procedural generation, genetic inheritance, autonomous agents, and custom assets.
