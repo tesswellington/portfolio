@@ -1,50 +1,37 @@
 # Data Science and Machine Learning Portfolio
 
-Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statistics and Data Science. I believe data science, machine learning, and AI have the power to transform lives for the better. This belief motivates my passion for using data to uncover patterns, predict outcomes, and drive meaningful change. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits. Below, you'll find a selection of my projects encompassing predictive healthcare, business analysis, political science, consumer behavior analysis, and more.
+Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statistics and Data Science. I believe data science, machine learning, and AI have the power to transform lives for the better. This belief motivates my passion for using data to uncover patterns, predict outcomes, and drive meaningful change. As this field rapidly evolves, I am committed to contributing ethically responsible, innovative, and impactful work that prioritizes real-world benefits. Below, you'll find a selection of my current personal projects and past course projects encompassing healthcare data analysis, predictive healthcare, consumer behavior analysis, and more.
+
+---
 
 ## Personal Projects
 
-### Analyzing Gap Between Hospital Bills and Medicare Payments
-- **Goal:** Investigate the gap between what hospitals bill and what Medicare actually pays across over 146,000 records from thousands of US hospitals and hundreds of Diagnosis-Related Groups (DRGs). The analysis identifies pricing patterns by procedure type, DRG, state, and hospital size. Uses CMS Medicare Inpatient Hospitals by Provider and Service dataset from CMS (data.cms.gov).
-- **Tech Stack:** SQLite, Tableau
-- **Repo:** [hospital-billing-CMS](https://github.com/tesswellington/hospital-billing-cms)
+#### Analyzing Hospital Billing and Medicare Payments | [repo](https://github.com/tesswellington/hospital-billing-cms) | ![SQL](https://img.shields.io/badge/SQL-white) ![Tableau](https://img.shields.io/badge/Tableau-white) 
+- **Goal:** Investigates the gap between what hospitals bill and what Medicare pays across ~146,000 records from ~3000 of US hospitals and 560 Diagnosis-Related Groups (DRGs). Identifies pricing patterns by procedure type, DRG, state, and hospital size.
 
-### Genetics-Based Simulation Project
-- **Goal:** Prototype a modular, data-driven simulation system featuring procedural generation, genetic inheritance, autonomous agents, and custom assets.
-- **Tech Stack:** Godot 4, gdscript
-
+#### Genetics-Based Simulation Project | [repo](https://github.com/tesswellington/habitat-demo) | ![Godot 4](https://img.shields.io/badge/Godot_4-white?logo=godotengine)
+- **Goal:** Prototype an evolution simulation system featuring procedural generation, genetic inheritance, autonomous agents, and custom assets.
 
 ## Course Projects
 
-### Predicting Amazon Customer Order Totals (Stats 101C @ UCLA)
-- **Goal:** Develop a predictive model to estimate total order value for Amazon customers based on demographic and purchase data. Using a dataset of ~5000 customers from 2018-2022, this project explores customer behavior and purchasing patterns to improve revenue forecasting. 
-- **Tech Stack:** R, dplyr, tidyverse, ggplot, random forest, knn, decision tree, boosted tree, glm, stacks
-- **Repo:** [amazon-sales-prediction](https://github.com/tesswellington/amazon-sales-prediction)
+#### Predicting Amazon Revenue | [repo](https://github.com/tesswellington/amazon-sales-prediction) | ![R](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3) ![tidyverse](https://img.shields.io/badge/tidyverse-white?logo=tidyverse&logoColor=%231A162D) ![tidymodels](https://img.shields.io/badge/tidymodels-white) ![stacks](https://img.shields.io/badge/stacks-white)
 
-### Heart Failure Mortality Prediction (Stats 140XP @ UCLA)
-- **Goal:** Identify key risk factors in mortality from heart failure using data analysis and machine learning.
-- **Tech Stack:** R, tidyverse, ggplot, stepwise regression (AIC), XGBoost, decision trees, LaTeX
-- **Repo:** [heart-failure-prediction](https://github.com/tesswellington/heart-failure-prediction)
+- **Goal:** Develop a predictive model to estimate total order value for ~5000 Amazon customers to improve revenue forecasting. 
 
-### Predicting U.S. Presidential Election Results (Stats 101C @ UCLA)
-- **Goal:** Build a machine learning model to predict county-level winners in the 2020 U.S. Presidential Election based on demographic and education data from the U.S. Census Bureau. The dataset includes 3,111 counties, with 75% used for training and 25% for testing.
-- **Tech Stack:** R, tidyverse, ggplot
-- **Repo:** [presidential-election-prediction](https://github.com/tesswellington/presidential-election-prediction)
+#### Predicting Heart Failure Mortality | [repo](https://github.com/tesswellington/heart-failure-prediction) | ![R](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3) ![tidyverse](https://img.shields.io/badge/tidyverse-white?logo=tidyverse&logoColor=%231A162D) ![tidymodels](https://img.shields.io/badge/tidymodels-white) ![LaTeX](https://img.shields.io/badge/LaTeX-white?logo=latex&logoColor=%23008080)
+- **Goal:** Predict mortality from heart failure by identifying key risk factors
+
+#### Predicting U.S. Presidential Election Results | [repo](https://github.com/tesswellington/presidential-election-prediction) | ![R](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3) ![tidyverse](https://img.shields.io/badge/tidyverse-white?logo=tidyverse&logoColor=%231A162D)
+- **Goal:** Build a model to predict county-level winners in the 2020 U.S. Presidential Election
 
 ---
 
 ## Professional Certificates
 
-### IBM Machine Learning
+#### IBM Machine Learning
+![Python](https://img.shields.io/badge/Python-white?logo=python) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23f8f8f8?style=flat&logo=scikitlearn&logoColor=%23F7931E)
 - **Credential:** [Professional Certificate](https://coursera.org/share/1227e32c706a88cfc0301835049b6acc)
-- **Language:** Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
-- **Courses Completed:**
-  - Machine learning Capstone ([Course Certificate](https://coursera.org/share/fd3099b65286235657ae01af236ce9c3))
-  - Deep Learning and Reinforcement Learning ([Course Certificate](https://coursera.org/share/95f4b058ee79edfc57ea5e457dfc2846))
-  - Unsupervised Machine Learning ([Course Certificate](https://coursera.org/share/394fe10317c5c65e1e5661d6c19f8fa4))
-  - Supervised Machine Learning: Classification ([Course Certificate](https://coursera.org/share/c49c451d72c7fbe90c3b2b7014f8389c))
-  - Supervised Machine Learning: Regression ([Course Certificate](https://coursera.org/share/6628970366a7f0820523b739a3344466))
-  - IBM Exploratory Data Analysis for Machine Learning ([Course Certificate](https://coursera.org/share/2eab1072e10aa0cd9614c03de1a85c56))
+- **Skills:** EDA, Supervised ML, Unsupervised ML, Deep Learning and Reinforcement Learning
 
 ---
 
