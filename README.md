@@ -21,7 +21,7 @@ Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statist
 #### Predicting Heart Failure Mortality | [repo](https://github.com/tesswellington/heart-failure-prediction) | ![R](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3) ![tidyverse](https://img.shields.io/badge/tidyverse-white?logo=tidyverse&logoColor=%231A162D) ![tidymodels](https://img.shields.io/badge/tidymodels-white) ![LaTeX](https://img.shields.io/badge/LaTeX-white?logo=latex&logoColor=%23008080)
 - **Goal:** Predict mortality from heart failure by identifying key risk factors
 
-#### Predicting U.S. Presidential Election Results | [repo](https://github.com/tesswellington/presidential-election-prediction) | ![R](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3) ![tidyverse](https://img.shields.io/badge/tidyverse-white?logo=tidyverse&logoColor=%231A162D)
+#### Predicting U.S. Presidential Election Results | [repo](https://github.com/tesswellington/presidential-election-prediction) | ![R](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3) ![tidyverse](https://img.shields.io/badge/tidyverse-white?logo=tidyverse&logoColor=%231A162D) ![tidymodels](https://img.shields.io/badge/tidymodels-white)
 - **Goal:** Build a model to predict county-level winners in the 2020 U.S. Presidential Election
 
 ---
