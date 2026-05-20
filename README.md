@@ -7,7 +7,7 @@ Hi! I'm Theresa (Tess) Wellington, a recent UCLA graduate with a B.S. in Statist
 ## Personal Projects
 
 #### Analyzing Hospital Billing and Medicare Payments | [repo](https://github.com/tesswellington/hospital-billing-cms) | ![SQL](https://img.shields.io/badge/SQL-white) ![Tableau](https://img.shields.io/badge/Tableau-white) 
-- **Goal:** Investigates the gap between what hospitals bill and what Medicare pays across ~146,000 records from ~3000 of US hospitals and 560 Diagnosis-Related Groups (DRGs). Identifies pricing patterns by procedure type, DRG, state, and hospital size.
+- **Goal:** Investigate the gap between what hospitals bill and what Medicare pays across ~146,000 records from ~3000 of US hospitals and 560 Diagnosis-Related Groups (DRGs). Identify pricing patterns by procedure type, DRG, state, and hospital size.
 
 #### Genetics-Based Simulation Project | [repo](https://github.com/tesswellington/habitat-demo) | ![Godot 4](https://img.shields.io/badge/Godot_4-white?logo=godotengine)
 - **Goal:** Prototype an evolution simulation system featuring procedural generation, genetic inheritance, autonomous agents, and custom assets.
